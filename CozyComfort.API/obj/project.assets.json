@@ -8,7 +8,7 @@
     "net8.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
@@ -35,14 +35,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "D:\\Rasi-SOC\\CozyComfort.Data\\CozyComfort.Data.csproj": {
-              "projectPath": "D:\\Rasi-SOC\\CozyComfort.Data\\CozyComfort.Data.csproj"
-            },
-            "D:\\Rasi-SOC\\CozyComfort.Models\\CozyComfort.Models.csproj": {
-              "projectPath": "D:\\Rasi-SOC\\CozyComfort.Models\\CozyComfort.Models.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -70,7 +63,7 @@
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "[6.5.0, )"
+            "version": "[6.2.3, )"
           }
         },
         "imports": [
