@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CozyComfort.WindowsFormsClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe3f8db8511e328976738ef4ecd0607dc835f56")]
 [assembly: System.Reflection.AssemblyProductAttribute("CozyComfort.WindowsFormsClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CozyComfort.WindowsFormsClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
